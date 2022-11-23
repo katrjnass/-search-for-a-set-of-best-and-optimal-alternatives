@@ -1,4 +1,4 @@
-# -optimization-of-a-binary-relation
+# -search for a set of best and optimal alternatives
 Пошук множини найкращих та оптимальних альтернатив
 
 Перевіряємо чи відношення, яке знаходиться в файлі matrix.txt, є ациклічним.
